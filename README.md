@@ -17,7 +17,7 @@ in any production environment.
 ## Run - local, separated
 
 Launch the backend with:
-
+test
 ```
 mvn clean install
 mvn spring-boot:run
